@@ -86,7 +86,7 @@ line-height: 25px;
 color: #EDF2F4;
 text-decoration: none;
 }
-.btn:hover{
+.btn:hover, .btn:active{
     background: rgba(239, 35, 60, 0.9);
     border-color:rgba(239, 35, 60, 0.9)
    
